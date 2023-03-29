@@ -11,7 +11,7 @@
 		{{ . }}
 	</div>
 	{{- end }}
-	{{- if .Site.Params.indexPager -}}
+	<!-- {{- if .Site.Params.indexPager -}}
 		{{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
 		{{- range $paginator.Pages }}
 			{{- .Render "summary" }}
@@ -27,6 +27,6 @@
 			</div>
 		{{- end }}
 		{{ partial "pagination.html" . }}
-	{{- end }}
+	{{- end }} -->
 </main>
 {{ end }}
