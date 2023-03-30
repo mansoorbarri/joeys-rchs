@@ -8,7 +8,7 @@ Studies in English are extremely important because the essential skills learned 
 
 English also develops a sense of curiosity and excitement with the world of reading. It builds and sharpens critical thinking skills; refines students’ understanding and appreciation for diverse reading experiences; as well as shows students how reading can improve mental health, unleash creativity and be a source of comfort in our lives. English stretches our creative talents as imaginative writers developing a confident grasp of language and technique. Students are encouraged to apply their understanding of linguistic crafting to their own writing to demonstrate they too can be masters of language.
 
-#### English Curriculum Booklet: 
+### English Curriculum Booklet: 
 
 [![English Curriculum](https://stjosephsbolton.org.uk/wp-content/uploads/2022/03/English-Capture-209x300.png)](https://stjosephsbolton.org.uk/wp-content/uploads/2022/11/Departmental-Curriculum-Handbook-English-1.pdf)
 
@@ -28,7 +28,7 @@ English also develops a sense of curiosity and excitement with the world of read
 </a>
 {{< /rawhtml >}}
 
-You can also download the PDF to view it: [Download PDF](/assets/english/macro.pdf).
+*You an also download the PDF to view it: [Download PDF](/assets/english/macro.pdf).*
 
 ### SMSC in English
 
