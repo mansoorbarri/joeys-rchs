@@ -14,11 +14,15 @@ English also develops a sense of curiosity and excitement with the world of read
 
 ### Word of the week
 {{< rawhtml>}}
-<object data="https://stjosephsbolton.org.uk/wp-content/uploads/2022/07/38-18.7.22-Dem.pdf" type="application/pdf" width="700px" height="700px">
+<a href="https://stjosephsbolton.org.uk/wp-content/uploads/2022/07/38-18.7.22-Dem.pdf">
+    <img src="/assets/faculties/english/WOTW.png">
+</a>
+
+<!-- <object data="https://stjosephsbolton.org.uk/wp-content/uploads/2022/07/38-18.7.22-Dem.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://stjosephsbolton.org.uk/wp-content/uploads/2022/07/38-18.7.22-Dem.pdf">     
         <p>This browser does not support PDFs.</p>
     </embed>
-</object>
+</object> -->
 {{< /rawhtml >}}
 
 You can also download the PDF to view it: [Download PDF](https://stjosephsbolton.org.uk/wp-content/uploads/2022/07/38-18.7.22-Dem.pdf).
