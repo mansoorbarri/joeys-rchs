@@ -14,26 +14,18 @@ English also develops a sense of curiosity and excitement with the world of read
 
 ### Word of the week
 {{< rawhtml>}}
-<a href="https://stjosephsbolton.org.uk/wp-content/uploads/2022/07/38-18.7.22-Dem.pdf">
+<a href="https://joeys-rchs.pages.dev/assets/english/macro.pdf">
     <img src="/assets/english/WOTW.png">
 </a>
-
-<!-- <object data="https://stjosephsbolton.org.uk/wp-content/uploads/2022/07/38-18.7.22-Dem.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://stjosephsbolton.org.uk/wp-content/uploads/2022/07/38-18.7.22-Dem.pdf">     
-        <p>This browser does not support PDFs.</p>
-    </embed>
-</object> -->
 {{< /rawhtml >}}
 
-You can also download the PDF to view it: [Download PDF](https://stjosephsbolton.org.uk/wp-content/uploads/2022/07/38-18.7.22-Dem.pdf).
+*You can also download the PDF to view it: [Download PDF](https://stjosephsbolton.org.uk/wp-content/uploads/2022/07/38-18.7.22-Dem.pdf).*
 
 ### Prefix of the week
 {{< rawhtml>}}
-<object data="/assets/english/macro.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/assets/english/macro.pdf">     
-        <p>This browser does not support PDFs.</p>
-    </embed>
-</object>
+<a href="https://stjosephsbolton.org.uk/wp-content/uploads/2022/07/38-18.7.22-Dem.pdf">
+    <img src="/assets/english/PFOTW.png">
+</a>
 {{< /rawhtml >}}
 
 You can also download the PDF to view it: [Download PDF](/assets/english/macro.pdf).
