@@ -59,6 +59,10 @@ Find more about curriculum consultation [here](https://stjosephsbolton.org.uk/wp
 “For everything that was written in the past was written to teach us.” Romans 15:4
 The English Department aims to fully equip students for life in the 21st Century. We provide students with a broad and balanced curriculum. This showcases the world’s best literature, adding to the students’ cultural capital and promoting a love of reading. Students also learn how to process vast amounts of information, often from conflicting sources, so they can successfully navigate through the world. Students are challenged and supported to achieve the best possible outcomes in their GCSEs.
 
+### Facilities
+- [Library](/facilities/library)
+Our school library is located in our Learning Resource Centre, on first floor of the Brian Brady Centre. We believe in providing the resources to our students which will aid study and complement individual subjects through the use of traditional literature and modern technology.
+
 ### Our Implementation
 {{< rawhtml >}}
 <img style="float: left; padding-right: 5px; height: 500px;" src="https://stjosephsbolton.org.uk/wp-content/uploads/2022/01/Picture3-676x1024.png">

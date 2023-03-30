@@ -4,8 +4,6 @@ type: page
 toc: false
 ---
 
-Our school library is located in our Learning Resource Centre, on first floor of the Brian Brady Centre.  We believe in providing the resources to our students which will aid study and complement individual subjects through the use of traditional literature and modern technology.
-
 ![](https://stjosephsbolton.org.uk/wp-content/uploads/2021/12/Library-sign-300x222.jpg)
 
 The Library contains over 3000 Fiction titles, categorised into an A-Z system using the Author’s surname and our display units are changed regularly to keep the latest and fresh new titles on show, ready to loan out.  There are also just over 2000 Non-Fiction titles, poetry, plays and graphic novels.  We have a vast selection of career resources, ranging from Further Education literature to specially created materials from Connexions.  We also have a selection of magazines and newspapers, including our monthly subscription to First News.

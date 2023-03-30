@@ -61,7 +61,8 @@ theme = "hugo-dpsg"
 [Params.footer]
   right = '''
   [Contact Us](/contact-us) ‎‎
-  [Privacy Policy](/privacy)
+  [Privacy Policy](/privacy) ‎‎
+  [Sitemap](/sitemap.xml)
   '''
 # Custom menu items, normally controlled via front matter in /content files
 [menu]
