@@ -31,8 +31,8 @@
 	{{- with .OutputFormats.Get "rss" }}
 		{{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
 	{{- end }}
-
-	{{ partial "favicon" . }}
+	<link rel="shortcut icon" href="https://joeys-rchs.pages.dev/favicon.ico">
+	<!-- {{ partial "favicon" . }} -->
 	{{ partial "perpagehead" . }}
 	{{- if not .Site.IsServer }}
 		{{ template "_internal/google_analytics_async.html" . }}
