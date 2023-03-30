@@ -14,7 +14,7 @@ English also develops a sense of curiosity and excitement with the world of read
 
 ### Word of the week
 {{< rawhtml>}}
-<a href="https://joeys-rchs.pages.dev/assets/english/macro.pdf">
+<a href="https://stjosephsbolton.org.uk/wp-content/uploads/2022/07/38-18.7.22-Dem.pdf">
     <img src="/assets/english/WOTW.png">
 </a>
 {{< /rawhtml >}}
@@ -23,7 +23,7 @@ English also develops a sense of curiosity and excitement with the world of read
 
 ### Prefix of the week
 {{< rawhtml>}}
-<a href="https://stjosephsbolton.org.uk/wp-content/uploads/2022/07/38-18.7.22-Dem.pdf">
+<a href="https://joeys-rchs.pages.dev/assets/english/macro.pdf">
     <img src="/assets/english/PFOTW.png">
 </a>
 {{< /rawhtml >}}
