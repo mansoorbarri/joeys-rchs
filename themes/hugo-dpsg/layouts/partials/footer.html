@@ -1,6 +1,14 @@
 <footer class="footer">
 	<div class="container footer__container flex">
 		{{ partial "footer_links.html" . }}
+		<div class="social-bar">
+			<a href="[insert Facebook page URL]"><img src="https://raw.githubusercontent.com/pfadfinder-konstanz/hugo-dpsg/master/layouts/partials/svg/facebook.svg" alt="Facebook"></a>
+			<a href="[insert Instagram profile URL]"><img src="[insert Instagram icon URL]" alt="Instagram"></a>
+			<a href="[insert Twitter profile URL]"><img src="/twitter.svg" alt="Twitter"></a>
+			<a href="[insert LinkedIn page URL]"><img src="[insert LinkedIn icon URL]" alt="LinkedIn"></a>
+
+		</div>
+		  
 		<div class="footer__copyright">
 			&copy; {{ now.Format "2006" }} {{ .Site.Params.copyright}}St. Joseph’s Roman Catholic High School
 		</div>

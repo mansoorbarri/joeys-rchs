@@ -26,7 +26,7 @@ theme = "hugo-dpsg"
 
   indexPager = true # Show pager navigation on index page
 
-  post_meta = ["author", "date", "categories", "translations"] # Order of post meta information
+  post_meta = ["author", "date", "categories"] # Order of post meta information
 
   mainSections = ["posts", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
 
@@ -53,6 +53,10 @@ theme = "hugo-dpsg"
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
   tags_counter = false # Enable counter for each tag in "Tags" widget
+
+[Params.social]
+  name = "Facebook"
+  url = "https://google.com"
 
 [Params.footer]
   right = '''
@@ -90,4 +94,3 @@ theme = "hugo-dpsg"
     name = "Contact Us"
     url = "/contact-us/"
     weight = 5
-

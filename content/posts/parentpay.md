@@ -1,5 +1,5 @@
 ---
-title: ParentPay – cashless system of payment
+title: ParentPay
 type: posts
 toc: false
 ---
