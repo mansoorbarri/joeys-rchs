@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-type: page
+page: true
 toc: false
 ---
 ## St Joseph’s RC High School
