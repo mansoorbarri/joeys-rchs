@@ -36,8 +36,8 @@ theme = "hugo-dpsg"
   highlightColor = "#003056" # Override main theme color
 
 [Params.logo]
-  image = "logo.png" 
-  header = "banner.png"
+  image = "assets/logo.png" 
+  header = "assets/banner.png"
   title = "St. Joseph’s RC High School" 
   # subtitle = "St. Joseph's RC High School prioritizes the safety and well-being of children and young people, and requires all staff and volunteers to share this commitment."
 

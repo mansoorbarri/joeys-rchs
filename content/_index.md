@@ -22,12 +22,12 @@ Bill Charnley, Rest in Peace.
 
 ---
 {{< rawhtml >}}
-<img style="width: 80px;" src=https://stjosephsbolton.org.uk/wp-content/themes/st-josephs-2019/images/accreditations/nace.jpg></img>
-<img style="width: 80px;" src=https://stjosephsbolton.org.uk/wp-content/themes/st-josephs-2019/images/accreditations/fmsis.jpg></img>
-<img style="width: 80px;" src=https://stjosephsbolton.org.uk/wp-content/themes/st-josephs-2019/images/accreditations/diocese_of_salford.jpg></img>
-<img style="width: 80px;" src=https://stjosephsbolton.org.uk/wp-content/themes/st-josephs-2019/images/accreditations/fairtrade_school.jpg></img>
-<img style="width: 80px;" src=https://stjosephsbolton.org.uk/wp-content/themes/st-josephs-2019/images/accreditations/bolton_learning_alliance.jpg></img>
-<img style="width: 80px;" src=https://stjosephsbolton.org.uk/wp-content/themes/st-josephs-2019/images/accreditations/healthy_schools.jpg></img>
-<img style="width: 80px;" src=https://stjosephsbolton.org.uk/wp-content/themes/st-josephs-2019/images/accreditations/international_school_award.jpg></img>
-<img style="width: 80px;" src=https://stjosephsbolton.org.uk/wp-content/themes/st-josephs-2019/images/accreditations/catholic_education_service.jpg></img>
+<img style="width: 80px;" src=assets/home/nace.png></img>
+<img style="width: 80px;" src=assets/home/fmsis.png></img>
+<img style="width: 80px;" src=assets/home/diocese_of_salford.png></img>
+<img style="width: 80px;" src=assets/home/fairtrade_school.png></img>
+<img style="width: 80px;" src=assets/home/bolton_learning_alliance.png></img>
+<img style="width: 80px;" src=assets/home/healthy_schools.png></img>
+<img style="width: 80px;" src=assets/home/international_school_award.png></img>
+<img style="width: 80px;" src=assets/home/catholic_education_service.png>
 {{< /rawhtml >}}
