@@ -44,7 +44,7 @@ The school also participates in Encompass, a partnership between Greater Manches
 ### Pastoral Care
 Before your child starts at St Joseph’s time is spent getting to know them through by our Transistion Co-ordinator, Miss Durkin. Our Pastoral system provides the care and guidance to allow them to flourish and grow. Each cohort group has a Head of Year who is responsible for caring for all of the year group.  Each year is split into form groups and your son or daughter son will be in one of these groups. Each tutor group is headed by a member of staff who your child will see every morning during registration and whom your child will be with during assemblies and educational days.
 
-#### Academic year 2022 – 2023
+**Academic year 2022 – 2023**
 | Year Group | Head of Year  |
 |------------|---------------|
 | Year 7     | Mrs Weall     |
