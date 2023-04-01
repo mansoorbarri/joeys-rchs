@@ -22,7 +22,7 @@ Bill Charnley, Rest in Peace.
 
 ---
 
-![](https://stjosephsbolton.org.uk/wp-content/themes/st-josephs-2019/images/accreditations/nace.jpg) ‎ 
+![](/assets/nace.png) ‎ 
 ![](https://stjosephsbolton.org.uk/wp-content/themes/st-josephs-2019/images/accreditations/fmsis.jpg) ‎ 
 ![](https://stjosephsbolton.org.uk/wp-content/themes/st-josephs-2019/images/accreditations/diocese_of_salford.jpg)  ‎ 
 ![](https://stjosephsbolton.org.uk/wp-content/themes/st-josephs-2019/images/accreditations/fairtrade_school.jpg)
