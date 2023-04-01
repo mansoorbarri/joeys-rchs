@@ -1,7 +1,6 @@
 ---
 title: "Our School"
 page: true
-toc: false
 ---
 
 St. Joseph’s  is an 11-16 voluntary aided co-educational Roman Catholic Secondary School under the trusteeship of The Diocese of Salford.  We are maintained by the Bolton Local Authority and have 860 students enrolled.  St. Joseph’s was established as a secondary school on 5th November 1963.

@@ -1,6 +1,6 @@
 ---
 title: Our Community at St Joseph's
-page:  true
+page: true
 toc: false
 ---
 

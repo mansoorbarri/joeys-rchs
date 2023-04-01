@@ -176,6 +176,4 @@ A list of the course available for students to study to GCSE or equivalent can b
 
 [Partnership with Parents](https://stjosephsbolton.org.uk/wp-content/uploads/2020/01/16-Jan-2020-Partnership-with-Parents-Tab.pdf)
 
-For more information on our school curriculum you can contact
-
-HHorridge991@st-josephs.bolton.sch.uk
+For more information on our school curriculum you can contact [Mrs Horridge](HHorridge991@st-josephs.bolton.sch.uk)
