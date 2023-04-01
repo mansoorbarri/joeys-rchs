@@ -22,12 +22,12 @@ Bill Charnley, Rest in Peace.
 
 ---
 {{< rawhtml >}}
-<img style="width: 80px;" src="assets/home/nace.png" title="Nace"></img>
-<img style="width: 80px;" src=assets/home/fmsis.png></img>
-<img style="width: 80px;" src=assets/home/diocese_of_salford.png></img>
-<img style="width: 80px;" src=assets/home/fairtrade_school.png></img>
-<img style="width: 80px;" src=assets/home/bolton_learning_alliance.png></img>
-<img style="width: 80px;" src=assets/home/healthy_schools.png></img>
-<img style="width: 80px;" src=assets/home/international_school_award.png></img>
-<img style="width: 80px;" src=assets/home/catholic_education_service.png>
+<img style="width: 80px;" src="assets/home/nace.png" title="Nace">
+<img style="width: 80px;" src="assets/home/fmsis.png" title="The Financial Management Standard in Schools (FMSiS)">
+<img style="width: 80px;" src="assets/home/diocese_of_salford.png" title="Roman Catholic Diocese of Salford">
+<img style="width: 80px;" src="assets/home/fairtrade_school.png" title="Fairtrade Schools">
+<img style="width: 80px;" src="assets/home/bolton_learning_alliance.png" title="Bolton Learning Alliance">
+<img style="width: 80px;" src="assets/home/healthy_schools.png" title="Healthy Schools">
+<img style="width: 80px;" src="assets/home/international_school_award.png" title="International School Award">
+<img style="width: 80px;" src="assets/home/catholic_education_service.png" title="Catholic Education Service">
 {{< /rawhtml >}}
