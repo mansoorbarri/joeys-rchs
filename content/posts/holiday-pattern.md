@@ -2,6 +2,7 @@
 title: Holiday Pattern
 type: posts
 toc: true
+pager: false
 ---
 
 A copy of our Holiday Pattern for the academic year 2021-2022 and 2022-3 can be downloaded as a PDF document below:
@@ -126,4 +127,4 @@ A copy of our Holiday Pattern for the academic year 2021-2022 and 2022-3 can be 
 | 20th July | Whole School Rewards Day | Head of Year |
 | 21st July | Summer Holidays |  |
 
-####  **All events are subject to change/become virtual events depending on government guidelines*
+***All events are subject to change/become virtual events depending on government guidelines****
