@@ -1,6 +1,6 @@
 ---
 title: English
-type: page
+page: true
 toc: true
 ---
 

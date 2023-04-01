@@ -55,9 +55,49 @@ Therefore, our curriculum aims to help pupils:
 Find more about curriculum consultation [here](https://stjosephsbolton.org.uk/wp-content/uploads/2022/06/Curriculum-Consultation.pptx).
 
 ### Subjects
-- [English](/faculties/english)
-“For everything that was written in the past was written to teach us.” Romans 15:4
+- [Art](/faculties/art):
+**“We are God’s work of art, created in Christ Jesus for the good works which God has already designated to make up your way of life.” Ephesians 2:10** 
+Through a variety of activities the Art team aims to help all our students reach their full potential. We encourage a sense of enquiry about the visual world we all live in, help students express themselves through art and design and introduce students to the contribution that art, craft and design has made to the world. The subject offers opportunities for our students to develop their own creativity and produce something that is completely unique and personal. 
+
+- [Business & ICT Department](/faculties/bict):
+**“Behold, they are one people, and they all have the same language. And this is what they began to do, and now nothing which they purpose to do will be impossible for them.” Genesis 11:6**
+The B-ICT department comprises Computing, IT and Business and is staffed by a knowledgeable team with specialisms spanning the breadth of department, each of whom are highly dedicated to their profession.   The department is located within the new building and comprises two purpose-built suites which are well equipped and air conditioned.   
+
+- [Design Technology](/faculties/design-tech):
+**“Wisdom has built herself a house.” Proverbs 9:1**
+The Department of Design and Technology is made up of a dedicated team of staff who are highly committed to their subject area.  Qualifications are offered up to GCSE Level in Food Preparation and Nutrition and Design and Technology, this has two strands to it, one has a focus on timbers, and the other has a focus on textiles.  In addition to this we offer a BTEC qualification in Health and Social Care. The department has fully embraced the mission statement of the school by providing a curriculum and learning environment that ensures every student fulfils their potential.
+
+- [English](/faculties/english):
+**“For everything that was written in the past was written to teach us.” Romans 15:4**
 The English Department aims to fully equip students for life in the 21st Century. We provide students with a broad and balanced curriculum. This showcases the world’s best literature, adding to the students’ cultural capital and promoting a love of reading. Students also learn how to process vast amounts of information, often from conflicting sources, so they can successfully navigate through the world. Students are challenged and supported to achieve the best possible outcomes in their GCSEs.
+
+- [Humanities](/faculties/humanities):
+**“The one who concentrates his mind and his meditation on the law of the most high, he researches into the wisdom of all the Ancients.” Sirach 39:1**
+The Department of Humanities incorporates Geography and History.  It is made up of a dedicated and enthusiastic team of staff who are highly dedicated to their subject area.  Qualifications are offered up to GCSE Level including Geography and History.  They are committed to delivering high quality, challenging, interesting and appropriate learning experiences to all our students, inside and outside of the classroom. The subjects in Humanities are a popular choice at St. Joseph’s and we work hard to provide our students with the tools to be successful and inquisitive.
+
+- [Mathematics](/faculties/maths):
+**“Teach us to number our days, that we may gain a heart of wisdom.”  Psalm 90:12**
+The Department of Mathematics is made up of a dedicated team of staff who are highly dedicated to their subject area.  Qualifications are offered up to GCSE Level in Mathematics. Students are encouraged to develop their independent learning and develop investigation skills which will help them in their choice of career or further study.
+
+- [Languages](/faculties/languages):
+**“They were all filled with the Holy Spirit and began to speak different languages as the Spirit gave them power to express themselves.” Acts 2: 4-6**
+The Department of International Languages is made up of a dedicated team of staff; a Head of Department supported by three specialist teachers of French and Spanish, who are highly committed to demonstrating their passion for languages, in order to promote students’ enjoyment and engagement with their learning.  We strive to deliver high quality, challenging, interesting and appropriate learning experiences to all our students, both inside and outside of the classroom.
+
+- [Performing Art](/faculties/performing-arts):
+**““Let your light shine before others, so that they may see your good works and give glory to your Father” Matthew 5:16**
+The Department of Performing Arts, combining Drama, Music and Performing Arts is made up of a dedicated team of staff who are highly dedicated to their subject area. Qualifications are offered up to GCSE Level in Drama and Music and BTec in Performing Arts.  Students are encouraged to develop their confidence and performance skills by emphasising the skills and talents that we all share and encouraging those who are less confident to shine.
+
+- [Physical Education](/faculties/pe):
+**’ For the moment all discipline seems painful rather than pleasant, but later it yields the peaceful fruit of righteousness to those who have been trained by it. Therefore lift your drooping hands and strengthen your weak knees’’ Hebrews 12:11-12**
+The Department of Physical Education aims to develop student competence and confidence to take part in a range of physical activities that become an essential part of their lives, both in and out of school.  Our high quality Physical Education curriculum enables all students to enjoy and succeed in many kinds of physical activity. They develop a wide range of skills and the ability to use tactics, strategies and compositional ideas to perform successfully. There is a well established system of regular assessments and all students are set regular targets in order to achieve their full potential.
+
+- [Religious Education](/faculties/re):
+**"...to act justly, to love tenderly and to walk humbly with your God.” Micah 6:8**
+The aim of the Religious Education Curriculum is to engage, inspire, challenge and encourage pupils, equipping them with the knowledge and skills to answer challenging questions, explore different religious beliefs, values and traditions and develop a more rigorous understanding of the numerous religious traditions, beliefs and practices that are followed in our multi-cultural society and encourage respect for all beliefs. We want them to know how religious education promotes discernment in an environment where the Catholic faith enables pupils to combat prejudice, preparing them for adult life, employment and life-long learning.
+
+- [Science](/faculties/science):
+**“For there is hope for a tree, if it be cut down, that it will sprout again, and that its shoots will not cease.” Job 14:7**
+The Department of Science is made up of an experienced team of staff who are highly dedicated and specialised to their subject area.  Qualifications are offered up to GCSE Level including Core Science, Additional Science and individual GCSE’s in Biology, Chemistry and Physics.  Students are encouraged to be innovative and think about how Science affects everything we do – from how we function to the science behind our cameras and the components of the food we eat.  The faculty provides lessons that are active and engaging, maximising the interest and enthusiasm of our students, so that lessons are thoroughly enjoyed and understood.
 
 ### Facilities
 - [Library](/facilities/library)
