@@ -22,7 +22,7 @@ Bill Charnley, Rest in Peace.
 
 ---
 {{< rawhtml >}}
-<img style="width: 80px;" src="assets/home/nace.png" description="Nace"></img>
+<img style="width: 80px;" src="assets/home/nace.png" title="Nace"></img>
 <img style="width: 80px;" src=assets/home/fmsis.png></img>
 <img style="width: 80px;" src=assets/home/diocese_of_salford.png></img>
 <img style="width: 80px;" src=assets/home/fairtrade_school.png></img>
