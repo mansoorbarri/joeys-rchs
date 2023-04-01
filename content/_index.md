@@ -21,13 +21,13 @@ Bill Charnley, Rest in Peace.
 ![](https://stjosephsbolton.org.uk/wp-content/uploads/2022/05/284046334_5364204690313618_5505896528872640955_n-300x168.png)
 
 ---
-
-![](/assets/nace.png) ‎ 
-![](https://stjosephsbolton.org.uk/wp-content/themes/st-josephs-2019/images/accreditations/fmsis.jpg) ‎ 
-![](https://stjosephsbolton.org.uk/wp-content/themes/st-josephs-2019/images/accreditations/diocese_of_salford.jpg)  ‎ 
-![](https://stjosephsbolton.org.uk/wp-content/themes/st-josephs-2019/images/accreditations/fairtrade_school.jpg)
-
-![](https://stjosephsbolton.org.uk/wp-content/themes/st-josephs-2019/images/accreditations/bolton_learning_alliance.jpg) ‎ 
-![](https://stjosephsbolton.org.uk/wp-content/themes/st-josephs-2019/images/accreditations/healthy_schools.jpg) ‎ 
-![](https://stjosephsbolton.org.uk/wp-content/themes/st-josephs-2019/images/accreditations/international_school_award.jpg) ‎ 
-![](https://stjosephsbolton.org.uk/wp-content/themes/st-josephs-2019/images/accreditations/catholic_education_service.jpg)
+{{< rawhtml >}}
+<img style="width: 80px;" src=https://stjosephsbolton.org.uk/wp-content/themes/st-josephs-2019/images/accreditations/nace.jpg></img>
+<img style="width: 80px;" src=https://stjosephsbolton.org.uk/wp-content/themes/st-josephs-2019/images/accreditations/fmsis.jpg></img>
+<img style="width: 80px;" src=https://stjosephsbolton.org.uk/wp-content/themes/st-josephs-2019/images/accreditations/diocese_of_salford.jpg></img>
+<img style="width: 80px;" src=https://stjosephsbolton.org.uk/wp-content/themes/st-josephs-2019/images/accreditations/fairtrade_school.jpg></img>
+<img style="width: 80px;" src=https://stjosephsbolton.org.uk/wp-content/themes/st-josephs-2019/images/accreditations/bolton_learning_alliance.jpg></img>
+<img style="width: 80px;" src=https://stjosephsbolton.org.uk/wp-content/themes/st-josephs-2019/images/accreditations/healthy_schools.jpg></img>
+<img style="width: 80px;" src=https://stjosephsbolton.org.uk/wp-content/themes/st-josephs-2019/images/accreditations/international_school_award.jpg></img>
+<img style="width: 80px;" src=https://stjosephsbolton.org.uk/wp-content/themes/st-josephs-2019/images/accreditations/catholic_education_service.jpg></img>
+{{< /rawhtml >}}

@@ -37,7 +37,7 @@ theme = "hugo-dpsg"
 
 [Params.logo]
   image = "logo.png" 
-  header = "banner.png"
+  header = "banner.jpg"
   title = "St. Joseph’s RC High School" 
   # subtitle = "St. Joseph's RC High School prioritizes the safety and well-being of children and young people, and requires all staff and volunteers to share this commitment."
 
@@ -53,10 +53,6 @@ theme = "hugo-dpsg"
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
   tags_counter = false # Enable counter for each tag in "Tags" widget
-
-[Params.social]
-  name = "Facebook"
-  url = "https://google.com"
 
 [Params.footer]
   right = '''

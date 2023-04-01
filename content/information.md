@@ -58,3 +58,8 @@ Mrs Guy, Mr Malji and Miss Warwick are our pastoral support managers. Mrs Guy is
 The Form Tutor has a key role to play in monitoring pupils’ welfare, going beyond fostering academic progress. Form Tutors contribute towards the content and delivery of the Pastoral Programme and support the Spiritual Life of the child by attending Year Masses, Liturgies and through involvement in Year Assemblies.  The tutors aim to build up self-confidence in the students and encourage them to mix with new classmates.
 
 Our Deputy Headteacher **Mrs Yorke-Robinson** and Assistant Headteacher **Mr Singleton** work with all of our Heads of Year and Pastoral Tutors to ensure that your child has the very best of care during their time here at St. Joseph’s.
+
+### Online Learning 
+[Click here](https://stjosephsrchighschool.rmunify.com/) to access student RMUnify login page which gives students and staff free access to Microsoft Office including Outlook, Teams and One Drive as well as links to all of our main learning websites.
+
+[Click here](https://stjosephsbolton.org.uk/wp-content/uploads/2021/10/Staff-email-addresses-Sept-21.docx.pdf) for a list of staff email addresses.
