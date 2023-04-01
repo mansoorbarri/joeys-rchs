@@ -1,7 +1,7 @@
 ---
 Title: Information About JOEYS RCHS
-type: page
-toc: false
+page: true
+toc: true
 ---
 
 ### Welcome from the Headteacher
@@ -29,7 +29,9 @@ In short, St Joseph's believes that they are building the Kingdom of God on eart
 
 ### Wellbeing / Safeguarding Support
 
-![](https://stjosephsbolton.org.uk/wp-content/uploads/2020/10/IMG_3780-354x246.jpg)
+{{< rawhtml >}}
+<img style="height: 525px; float: right; padding-left: 10px;"src=https://stjosephsbolton.org.uk/wp-content/uploads/2022/11/student-safeguarding-poster-1-1-724x1024.jpg></img><br><br>
+{{< /rawhtml >}}
 
 St Joseph’s RC High School prioritizes the physical and mental wellbeing of all its pupils. Mental health provision is universally provided for all pupils through ‘wellbeing Friday’ during tutor time. The school aims to create a learning environment that promotes resilience and where pupils feel safe and supported.
 
@@ -37,4 +39,22 @@ The school provides safeguarding support for the whole community, working closel
 
 The school also participates in Encompass, a partnership between Greater Manchester Police, Bolton Safeguarding Children Board, and designated school staff. This partnership aims to safeguard children by informing Key Adults within schools about any domestic abuse incident where the child or young person has been present. Key adults within the school are then able to accommodate the school day to lessen the impact and support the child if they need it.
 
-![](https://stjosephsbolton.org.uk/wp-content/uploads/2022/11/student-safeguarding-poster-1-1-724x1024.jpg)
+![](https://stjosephsbolton.org.uk/wp-content/uploads/2020/10/IMG_3780-354x246.jpg)
+
+### Pastoral Care
+Before your child starts at St Joseph’s time is spent getting to know them through by our Transistion Co-ordinator, Miss Durkin. Our Pastoral system provides the care and guidance to allow them to flourish and grow. Each cohort group has a Head of Year who is responsible for caring for all of the year group.  Each year is split into form groups and your son or daughter son will be in one of these groups. Each tutor group is headed by a member of staff who your child will see every morning during registration and whom your child will be with during assemblies and educational days.
+
+#### Academic year 2022 – 2023
+| Year Group | Head of Year  |
+|------------|---------------|
+| Year 7     | Mrs Weall     |
+| Year 8     | Mr Cartwright |
+| Year 9     | Mr Sylvester  |
+| Year 10    | Mr Sharrock   |
+| Year 11    | Mrs Anderton  |
+
+Mrs Guy, Mr Malji and Miss Warwick are our pastoral support managers. Mrs Guy is our nurture and wellbeing lead. Mr Malji leads on school attendance and Miss Warwick is part of our safeguarding and new starter team.
+
+The Form Tutor has a key role to play in monitoring pupils’ welfare, going beyond fostering academic progress. Form Tutors contribute towards the content and delivery of the Pastoral Programme and support the Spiritual Life of the child by attending Year Masses, Liturgies and through involvement in Year Assemblies.  The tutors aim to build up self-confidence in the students and encourage them to mix with new classmates.
+
+Our Deputy Headteacher **Mrs Yorke-Robinson** and Assistant Headteacher **Mr Singleton** work with all of our Heads of Year and Pastoral Tutors to ensure that your child has the very best of care during their time here at St. Joseph’s.
