@@ -1,6 +1,6 @@
 ---
 title: "Our School"
-page: true
+pager: false
 toc: false
 ---
 
