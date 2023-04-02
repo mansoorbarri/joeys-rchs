@@ -16,13 +16,9 @@ theme = "hugo-dpsg"
 
   twitter_cards = true # Enable Twitter Cards if true
   
-  readmore = false # Show "Read more" button in list if true
+  readmore = true # Show "Read more" button in list if true
 
   authorbox = true # Show authorbox at bottom of pages if true
-  [Author] # Used in authorbox
-  name = "Scout Master"
-  bio = "The Scout Master is the leader of this local scout group"
-  avatar = "https://joeys-rchs.pages.dev/assets/logo.png"
 
   toc = true # Enable Table of Contents
 
@@ -35,6 +31,11 @@ theme = "hugo-dpsg"
   mainSections = ["posts", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
 
   dateformat = "02.01.2006" # Change the format of dates
+
+  [Author] # Used in authorbox
+  name = "Mansoor Barri"
+  bio = "11 Vincent"
+  avatar = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.onlinewebfonts.com%2Fsvg%2Fimg_87237.png&f=1&nofb=1&ipt=fea539d42efef230dc394aa8d5e4e2598ca8528849f8f76056bbaea0e56b2987&ipo=images"
 
 [Params.style.vars]
   highlightColor = "#003056" # Override main theme color
