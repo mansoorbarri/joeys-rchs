@@ -8,5 +8,5 @@
 
 **Hosting:** GitHub
 
-**Language:** Markdown, HTML, CSS & Javascript
+**Language:** HTML, CSS & Javascript
 
