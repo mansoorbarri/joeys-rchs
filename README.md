@@ -1,4 +1,4 @@
-# [stjosephsbolton.org.uk](https://joeys-rchs.pages.dev) [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/kai4.svg)](https://betteruptime.com/?utm_source=status_badge)
+# [stjosephsbolton.org.uk](https://joeys-rchs.pages.dev)
 
 ## Tech Stack
 
