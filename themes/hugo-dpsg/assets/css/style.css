@@ -533,7 +533,7 @@ select {
 	font-weight: 700;
 	line-height: 1;
 	color: white;
-	text-shadow: 0px 0px 5px  {{ $highlightColor }};
+	text-shadow: 0px 0px 5px  #2596be;
 }
 
 .logo__tagline {
