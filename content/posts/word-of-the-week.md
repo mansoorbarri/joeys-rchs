@@ -2,6 +2,7 @@
 title: Word Of The Week
 type: posts
 toc: false
+additional: true
 ---
 
 {{< rawhtml >}}

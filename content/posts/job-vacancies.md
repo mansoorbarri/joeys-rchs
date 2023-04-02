@@ -2,6 +2,7 @@
 title: Job Vacancies
 type: posts
 toc: true
+additional: true
 ---
 St. Joseph’s employ approximately 110 teaching and support staff and has approximately 958 students enrolled.  The school provides education for students from age 11 to 16 and we are based within the Roman Catholic Diocese of Salford.
 

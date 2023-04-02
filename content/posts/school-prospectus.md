@@ -2,6 +2,7 @@
 title: School Prospectus
 type: posts
 toc: false
+additional: true
 ---
 
 {{< rawhtml >}}

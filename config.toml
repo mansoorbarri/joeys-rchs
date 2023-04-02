@@ -18,7 +18,11 @@ theme = "hugo-dpsg"
   
   readmore = false # Show "Read more" button in list if true
 
-  authorbox = false # Show authorbox at bottom of pages if true
+  authorbox = true # Show authorbox at bottom of pages if true
+  [Author] # Used in authorbox
+  name = "Scout Master"
+  bio = "The Scout Master is the leader of this local scout group"
+  avatar = "https://joeys-rchs.pages.dev/assets/logo.png"
 
   toc = true # Enable Table of Contents
 
@@ -46,7 +50,7 @@ theme = "hugo-dpsg"
   list = "left"  # Configure layout for list pages
   single = false # Configure layout for single pages
   # Enable widgets in given order
-  widgets = ["recent", "categories", "taglist", "social", "languages"]
+  widgets = ["recent", "categories", "social", "languages"]
   # alternatively "ddg-search" can be used, to search via DuckDuckGo
   # widgets = ["ddg-search", "recent", "categories", "taglist", "social", "languages"]
 
@@ -101,7 +105,13 @@ theme = "hugo-dpsg"
     weight = 5
 
   [[menu.main]]
+    identifier = "Student Blog"
+    name = "Student Blog"
+    url = "/blog/"
+    weight = 6
+
+  [[menu.main]]
     identifier = "Contact"
     name = "Contact Us"
     url = "/contact-us/"
-    weight = 6
+    weight = 7

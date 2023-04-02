@@ -3,6 +3,7 @@ title: Holiday Pattern
 type: posts
 toc: true
 pager: false
+additional: true
 ---
 
 A copy of our Holiday Pattern for the academic year 2021-2022 and 2022-3 can be downloaded as a PDF document below:
