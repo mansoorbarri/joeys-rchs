@@ -1,17 +1,11 @@
 <footer class="footer">
 	<div class="container footer__container flex">
 		{{ partial "footer_links.html" . }}
-		<!-- <div class="social-bar">
-			<a href="https://facebook.com/StJosephsRCHS"><i class="fa fa-facebook-official fa-2x fa-fw"></i></a>
-			<a href="https://www.instagram.com/joeys_rchs/"><i class="fa fa-instagram fa-2x fa-fw"></i></a>
-			<a href="https://twitter.com/Joeys_rchs"><i class="fa fa-twitter fa-2x fa-fw"></i></a>
-			<a href="https://www.linkedin.com/company/st-joseph-s-rc-high-school-horwich/"><i class="fa fa-linkedin fa-2x fa-fw"></i></a>
-		  </div>
-		   -->
-		  
-		<div class="footer__copyright">
+		
+		<div style="text-align: center;" class="footer__copyright">
 			&copy; {{ now.Format "2006" }} {{ .Site.Params.copyright}}St. Joseph’s Roman Catholic High School
 		</div>
+		<p style="text-align: center;">This website is developed &amp; maintained by <a href="https://mansoorbarri.com">mansoorbarri.com</a></p>
 		{{ partial "footer_right.html" . }}
 	</div>
 </footer>

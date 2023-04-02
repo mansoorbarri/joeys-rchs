@@ -1,5 +1,5 @@
 baseurl = "https://joeys-rchs.pages.dev/"
-title = "St. Joseph’s Roman Catholic High School"
+title = "St. Joseph’s RC High School"
 languageCode = "en"
 DefaultContentLanguage = "en"
 paginate = "10" # Number of posts per page
@@ -36,7 +36,7 @@ theme = "hugo-dpsg"
   highlightColor = "#003056" # Override main theme color
 
 [Params.logo]
-  image = "assets/logo.png" 
+  image = "https://joeys-rchs.pages.dev/assets/logo.png" 
   header = "https://joeys-rchs.pages.dev/assets/banner.png"
   title = "St. Joseph’s RC High School" 
   # subtitle = "St. Joseph's RC High School prioritizes the safety and well-being of children and young people, and requires all staff and volunteers to share this commitment."
