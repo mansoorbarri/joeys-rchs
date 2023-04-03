@@ -18,14 +18,25 @@ Bill Charnley, Rest in Peace.
 
 #### Eternal rest grant unto him, O Lord. And let perpetual light shine upon him. May he rest in peace. Amen.
 
-![](https://stjosephsbolton.org.uk/wp-content/uploads/2022/05/284046334_5364204690313618_5505896528872640955_n-300x168.png)
-
-
 {{< rawhtml >}}
-<img style="width: 300px; float: right;" src="/assets/home/bill-charnley-award.jpg">
+<img style="width: 300px; float: left;" src="https://joeys-rchs.pages.dev/assets/home/bill-charnley-award.jpg">
+<br>
+<br>
+<img style="width: 400px; float: right;" src="https://stjosephsbolton.org.uk/wp-content/uploads/2022/05/284046334_5364204690313618_5505896528872640955_n-300x168.png">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 {{< /rawhtml >}}
 
 ---
+
 {{< rawhtml >}}
 <img style="width: 80px;" src="assets/home/nace.png" title="Nace">
 <img style="width: 80px;" src="assets/home/fmsis.png" title="The Financial Management Standard in Schools (FMSiS)">
