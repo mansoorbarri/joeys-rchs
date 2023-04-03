@@ -22,7 +22,7 @@ Bill Charnley, Rest in Peace.
 <img style="width: 300px; float: left;" src="https://joeys-rchs.pages.dev/assets/home/bill-charnley-award.jpg">
 <br>
 <br>
-<img style="width: 400px; float: right;" src="https://stjosephsbolton.org.uk/wp-content/uploads/2022/05/284046334_5364204690313618_5505896528872640955_n-300x168.png">
+<img style="width: 400px; float: right;" src="https://joeys-rchs.pages.dev/assets/home/silver-award.png">
 <br>
 <br>
 <br>
@@ -38,12 +38,12 @@ Bill Charnley, Rest in Peace.
 ---
 
 {{< rawhtml >}}
-<img style="width: 80px;" src="assets/home/nace.png" title="Nace">
-<img style="width: 80px;" src="assets/home/fmsis.png" title="The Financial Management Standard in Schools (FMSiS)">
-<img style="width: 80px;" src="assets/home/diocese_of_salford.png" title="Roman Catholic Diocese of Salford">
-<img style="width: 80px;" src="assets/home/fairtrade_school.png" title="Fairtrade Schools">
-<img style="width: 80px;" src="assets/home/bolton_learning_alliance.png" title="Bolton Learning Alliance">
-<img style="width: 80px;" src="assets/home/healthy_schools.png" title="Healthy Schools">
-<img style="width: 80px;" src="assets/home/international_school_award.png" title="International School Award">
-<img style="width: 80px;" src="assets/home/catholic_education_service.png" title="Catholic Education Service">
+<img style="width: 80px;" src="https://joeys-rchs.pages.dev/assets/home/nace.png" title="Nace">
+<img style="width: 80px;" src="https://joeys-rchs.pages.dev/assets/home/fmsis.png" title="The Financial Management Standard in Schools (FMSiS)">
+<img style="width: 80px;" src="https://joeys-rchs.pages.dev/assets/home/diocese_of_salford.png" title="Roman Catholic Diocese of Salford">
+<img style="width: 80px;" src="https://joeys-rchs.pages.dev/assets/home/fairtrade_school.png" title="Fairtrade Schools">
+<img style="width: 80px;" src="https://joeys-rchs.pages.dev/assets/home/bolton_learning_alliance.png" title="Bolton Learning Alliance">
+<img style="width: 80px;" src="https://joeys-rchs.pages.dev/assets/home/healthy_schools.png" title="Healthy Schools">
+<img style="width: 80px;" src="https://joeys-rchs.pages.dev/assets/home/international_school_award.png" title="International School Award">
+<img style="width: 80px;" src="https://joeys-rchs.pages.dev/assets/home/catholic_education_service.png" title="Catholic Education Service">
 {{< /rawhtml >}}
