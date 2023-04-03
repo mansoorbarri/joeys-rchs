@@ -20,6 +20,11 @@ Bill Charnley, Rest in Peace.
 
 ![](https://stjosephsbolton.org.uk/wp-content/uploads/2022/05/284046334_5364204690313618_5505896528872640955_n-300x168.png)
 
+
+{{< rawhtml >}}
+<img style="width: 300px; float: right;" src="/assets/home/bill-charnley-award.jpg">
+{{< /rawhtml >}}
+
 ---
 {{< rawhtml >}}
 <img style="width: 80px;" src="assets/home/nace.png" title="Nace">
