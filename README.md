@@ -1,4 +1,6 @@
-# [stjosephsbolton.org.uk](https://joeys-rchs.pages.dev)
+# [joeys-rchs.pages.dev](https://joeys-rchs.pages.dev)
+
+**A school website made with Hugo**
 
 ## Tech Stack
 
