@@ -6,7 +6,7 @@ paginate = "10" # Number of posts per page
 theme = "hugo-dpsg"
 
 [Params]
-  description = "Welcome to St. Joseph&#8217;s Roman Catholic High School Whether you are looking for information about our school or arrived here by chance, you are very welcome. We hope that you can sense the warm family values of our school." # Site description. Used in meta description
+  description = "St. Joseph's is an 11-16 voluntary aided co-educational Roman Catholic Secondary School under the trusteeship of The Diocese of Salford. We are maintained by the Bolton Local Authority and are a growing school with 950 students currently enrolled. St. Joseph's was established as a secondary school on 5th November 1963."
 
   copyright = "" 
 
