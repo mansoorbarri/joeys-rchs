@@ -20,6 +20,7 @@ Please email Mrs Hancock or Mrs Flanagan for further information: alumni@st-jose
 Very strong links exist between St Joseph’s and our Partner Primary Schools. The Headteachers of each school meet each half-term throughout the year with St Joseph’s Transition Coordinator to constantly review and develop our collaborative Transition Plan.
 
 Our Partner Primary schools include:
+
 - St Mary’s, Horwich
 - St Joseph’s Anderton
 - Sacred Heart, Westhoughton
