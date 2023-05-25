@@ -62,6 +62,19 @@ The Form Tutor has a key role to play in monitoring pupils’ welfare, going bey
 
 Our Deputy Headteacher **Mrs Yorke-Robinson** and Assistant Headteacher **Mr Singleton** work with all of our Heads of Year and Pastoral Tutors to ensure that your child has the very best of care during their time here at St. Joseph’s.
 
+
+### Help with cost of living
+{{< rawhtml >}}
+<div style="text-align: center;">
+    <h3>Don’t forget, if you are struggling with the cost of living</h3>
+    <h3>Please let us help you... call to speak to your child’s HoY.</h3>
+</div>
+{{< /rawhtml >}}
+
+Support with food: [Urban Outreach](https://stjosephsbolton.org.uk/wp-content/uploads/2022/07/Centre-Poster-BL22.pdf)
+
+Donate old uniform and buy pre-loved items: [Community Locker Uniform support](https://stjosephsbolton.org.uk/wp-content/uploads/2022/07/Back-scaled.jpg)
+
 ### Online Learning 
 [Click here](https://stjosephsrchighschool.rmunify.com/) to access student RMUnify login page which gives students and staff free access to Microsoft Office including Outlook, Teams and One Drive as well as links to all of our main learning websites.
 
