@@ -101,9 +101,9 @@ theme = "hugo-dpsg"
     weight = 5
 
   [[menu.main]]
-    identifier = "Student Blog"
-    name = "Student Blog"
-    url = "/blog/"
+    identifier = "News Board"
+    name = "News Board"
+    url = "/news-board/"
     weight = 6
 
   [[menu.main]]
