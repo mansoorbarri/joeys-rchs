@@ -62,3 +62,5 @@ If you wish to seek clarification about any part of this letter as always please
 Many thanks for your continued support
 
 **Mr T McCabe**
+
+---
