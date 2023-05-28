@@ -12,7 +12,7 @@ Our Mission Statement states that Jesus Christ is our role model. Jesus tells us
 Our curriculum aims to empower every student to develop as an independent, free thinking individual with a conscience rooted in Christian values, who can cope with challenges by developing resilience and living Christ’s message. It aims to instill ambition in our young people, dream the impossible and achieve beyond wildest imaginations, with a curriculum that is ambitious in a bespoke way to meet the needs of learners.
 
 {{< rawhtml >}}
-<img style="float: left; padding-right: 5px" src="https://joeys-rchs.pages.dev/assets/curriculum/intent.png">
+<img style="float: left; padding-right: 5px" src="https://joeys-rchs.pages.dev/assets/curriculum/intent.png" alt="circulum development poster" />
 {{< /rawhtml >}}
 
 Our students at St. Joseph's will gain information and skills that will enable them to be game changers in the world, bringing about good change and a new world with better capacities for social change and development. We expose young people to experiences that invest in the social and cultural capital aspect of their mindsets and allow opportunities to see beyond their current everyday experiences, regardless of financial situation or special needs, through the taught curriculum and extracurricular experiences. Our curriculum strives to produce students who will make constructive contributions to society, the Church, and, subsequently, the workplace. Our curriculum encourages kids to "aspire to be more," with the majority aiming to attend university.
@@ -26,7 +26,7 @@ The curriculum at St Joseph’s comprises all those activities and experiences w
 St Joseph’s bases its curriculum on the principle that all pupils should have access to a broad, balanced, relevant and enriching curriculum, irrespective of their personal aptitudes and abilities. The school seeks to ensure equality of opportunity within the curriculum for all pupils within the confines of the available resources – financial and structural.
 
 {{< rawhtml >}}
-<img style="float: right; padding-left: 5px" src="https://joeys-rchs.pages.dev/assets/curriculum/curriculum.jpg">
+<img style="float: right; padding-left: 5px" src="https://joeys-rchs.pages.dev/assets/curriculum/curriculum.jpg" alt="cirriculum" />
 {{< /rawhtml >}}
 
 ### Our curriculum is designed to be
@@ -105,7 +105,7 @@ Our school library is located in our Learning Resource Centre, on first floor of
 
 ### Our Implementation
 {{< rawhtml >}}
-<img style="float: left; padding-right: 5px; height: 500px;" src="https://joeys-rchs.pages.dev/assets/curriculum/implementation.png">
+<img style="float: left; padding-right: 5px; height: 500px;" src="https://joeys-rchs.pages.dev/assets/curriculum/implementation.png"  alt="poster" />
 {{< /rawhtml >}}
 Through a 5 year curriculum journey we cover the breadth of the KS3 National curriculum providing a foundation for GCSE and equivalent study. In order to deliver our curriculum intent at St Joseph’s we offer a range of challenging GCSE and equivalent subjects so that our pupils can compete with the best.  We also seek to ensure that our provision caters for those with vocational aspirations through CEIAG and a broad and balanced curriculum that builds on skills as well as knowledge in a spiral approach across the five years that students are with us.  Within our curriculum we recognise that there is more than GCSE outcomes to the curriculum and seek to offer all students an entitlement to a rich and varied extra curriculum through a ‘bucket list’ of activities to partake in whilst at St Joseph’s.
 
@@ -119,11 +119,11 @@ We do this in many ways, for example, through our curriculum, extra-curricular a
 
 St Joseph’s curriculum 5 year spiral curriculum design is where key concepts are presented repeatedly through the curriculum but with deepening layers of complexity.  This is to ensure that all pupils are offered a rich curriculum that provides them with a deep understanding of content and skills to prepare them for life at St Joseph’s and beyond.
 
-![](https://joeys-rchs.pages.dev/assets/curriculum/experience-schedule.png)
+![spiral curriculum design poster 1](https://joeys-rchs.pages.dev/assets/curriculum/experience-schedule.png)
 
 St Joseph’s curriculum achieves breadth by bringing all pupils into contact with a wide range of areas of learning and experience. This breadth in the curriculum is underpinned by the by the range of subjects offered under the National Curriculum, the implementation of which is audited to ensure that National Curriculum end points are reached by each pupil. It is then enhanced by a vast range of opportunities as part of our enrichment offer to deepen a pupil’s “Joeys’ experience”.
 
-![](https://joeys-rchs.pages.dev/assets/curriculum/route.png)
+![curriculum route](https://joeys-rchs.pages.dev/assets/curriculum/route.png)
 
 Balance is achieved in the curriculum by ensuring that each of these areas across the 5 year curriculum, for each pupil, is allowed sufficient scope for development, in terms of time and resources with the available financial and structural resources. Equally, there should be a balance in the variety of teaching styles employed in each classroom, with avoidance of the over use of any one particular style. A balance should be achieved also across the range of types of work required of the pupils in each classroom, with avoidance of overdue emphasis on any one particular kind of work. Each area of learning should draw upon the pupil’s experience of the world, and enhance their understanding of it within the context of the teachings of the Catholic Church. What is taught and learned should be perceived by pupils to meet their present needs, be relevant to the prospective needs of adult life, serve to enhance their enjoyment of learning or further their interest in, and understanding of the world.
 
@@ -137,23 +137,23 @@ Cross-Curriculum Mapping shows the significant number of areas where departments
 
 Full details of our cross-curricular learning can be found in the attached document. [Cross Curricular Learning](https://stjosephsbolton.org.uk/wp-content/uploads/2022/06/Cross-Curricular-Learning.pptx)
 
-![](https://joeys-rchs.pages.dev/assets/curriculum/cross-learning.jpg)
+![cross learning design](https://joeys-rchs.pages.dev/assets/curriculum/cross-learning.jpg)
 
 The sequencing of the cross-curriculum content is also designed to show the order in which different departments may study a particular area. This supports the “underground” plan so that departmental planning is informed using the relevant starting point for each of our pupils.
 
 Skills
 
 {{< rawhtml >}}
-<img style="float:right; padding-right: 380px;" src="https://joeys-rchs.pages.dev/assets/curriculum/skills1.png">
+<img style="float:right; padding-right: 380px;" src="https://joeys-rchs.pages.dev/assets/curriculum/skills1.png" alt="key" />
 {{< /rawhtml >}}
 
-![](https://joeys-rchs.pages.dev/assets/curriculum/skills2.png)
+![diagram](https://joeys-rchs.pages.dev/assets/curriculum/skills2.png)
 
-![](https://joeys-rchs.pages.dev/assets/curriculum/skills3.png)
+![second diagram](https://joeys-rchs.pages.dev/assets/curriculum/skills3.png)
 
 ### Our Impact
 {{< rawhtml >}}
-<img style="float: left; padding-right: 5px;" src="https://joeys-rchs.pages.dev/assets/curriculum/impact.png">
+<img style="float: left; padding-right: 5px;" src="https://joeys-rchs.pages.dev/assets/curriculum/impact.png" alt="impact poster">
 {{< /rawhtml >}}
 
 Learners enjoy their studies shown by the questions they raise, their contribution to class discussions and engagement in tasks evidenced in lesson visits/booklooks and student voice exercise.

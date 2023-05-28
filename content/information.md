@@ -18,7 +18,7 @@ In short, St Joseph's believes that they are building the Kingdom of God on eart
 ### Mission Statement
 
 {{< rawhtml >}}
-<img style="width: 450px; padding-left: 5px; float:right;" src="https://joeys-rchs.pages.dev/assets/information/mission-statement.jpg">
+<img style="width: 450px; padding-left: 5px; float:right;" src="https://joeys-rchs.pages.dev/assets/information/mission-statement.jpg" alt="mission statement" />
 {{< /rawhtml >}}
 
 **The Aims of St. Joseph’s RC High School:**
@@ -32,7 +32,7 @@ In short, St Joseph's believes that they are building the Kingdom of God on eart
 ### Wellbeing / Safeguarding Support
 
 {{< rawhtml >}}
-<img style="height: 525px; float: right; padding-left: 10px;"src=https://joeys-rchs.pages.dev/assets/information/safeguarding.jpg></img>
+<img style="height: 525px; float: right; padding-left: 10px;"src="https://joeys-rchs.pages.dev/assets/information/safeguarding.jpg" alt="safeguarding poster">
 {{< /rawhtml >}}
 
 St Joseph’s RC High School prioritizes the physical and mental wellbeing of all its pupils. Mental health provision is universally provided for all pupils through ‘wellbeing Friday’ during tutor time. The school aims to create a learning environment that promotes resilience and where pupils feel safe and supported.
@@ -41,7 +41,7 @@ The school provides safeguarding support for the whole community, working closel
 
 The school also participates in Encompass, a partnership between Greater Manchester Police, Bolton Safeguarding Children Board, and designated school staff. This partnership aims to safeguard children by informing Key Adults within schools about any domestic abuse incident where the child or young person has been present. Key adults within the school are then able to accommodate the school day to lessen the impact and support the child if they need it.
 
-![](https://joeys-rchs.pages.dev/assets/information/mental-health-matters.jpg)
+![Pupil standing under canopy with "Mental Health Matters" play card in yellow](https://joeys-rchs.pages.dev/assets/information/mental-health-matters.jpg)
 
 ### Pastoral Care
 Before your child starts at St Joseph’s time is spent getting to know them through by our Transistion Co-ordinator, Miss Durkin. Our Pastoral system provides the care and guidance to allow them to flourish and grow. Each cohort group has a Head of Year who is responsible for caring for all of the year group.  Each year is split into form groups and your son or daughter son will be in one of these groups. Each tutor group is headed by a member of staff who your child will see every morning during registration and whom your child will be with during assemblies and educational days.

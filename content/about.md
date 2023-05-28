@@ -14,9 +14,9 @@ This allowed the school to expand on the amount of sporting opportunities provid
 
 The school’s links with the local community are outstanding and recognised in the last Ofsted Inspection for the quality of its community links.  The school aims to ensure that it is at the heart of the community and that the community is at the heart of the school.  Students are offered a curriculum, which used the community as a resource to enrich teaching and learning, with individuals and groups involved in the school, complementing and enhancing the knowledge and expertise of the teaching staff.
 
-![](https://joeys-rchs.pages.dev/assets/about/1.jpg)
-![](https://joeys-rchs.pages.dev/assets/about/2.jpg)
-![](https://joeys-rchs.pages.dev/assets/about/3.jpg)
+![Picture of the main entrance of the school where pupil are entering](/assets/about/1.jpg)
+![pupil in PE uniform in the sports hall](/assets/about/2.jpg)
+![pupil in main hall listening to Mrs Morgan](/assets/about/3.jpg)
 
 The Governing Body is responsible for admissions and all decisions are made in accordance with the Schools Admissions Policy.  St Joseph’s offers every child the benefit of a varied curriculum and an environment in which the students feel that they are known, valued and cared for.  In order to deliver the highest standard of education to all we consider our relationship with our partner primary schools to be of vital importance, and there is an extensive programme of liaison each year.
 
