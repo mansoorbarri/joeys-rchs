@@ -8,6 +8,15 @@ A very warm welcome to those who are new to our school community, we hope that o
 
 If you are new to our school or joining us next September please learn more about us by watching the Welcome playlist on our [YouTube channel](https://youtube.com/playlist?list=PLX72CniOJaIT4mQw6siQHfiGr0Ru_ZfkZ).
 
+![](https://stjosephsbolton.org.uk/wp-content/uploads/2023/06/Beyond-Imagination-1-Made-with-PosterMyWall-3-194x300.jpg)
+![](https://stjosephsbolton.org.uk/wp-content/uploads/2023/06/Beyond-Imagination-flyer-Made-with-PosterMyWall-3-232x300.jpg)
+
+Parents/carers, young people and adults who work with children are invited to attend **“Beyond Imagination – a truly inclusive event** at St Joseph’s with key notes speeches from some of the world’s most inspiring people.”
+
+##### Monday 26th June at 6:30pm at St Joseph’s RC High School
+
+Book your tickets to avoid disappointment: https://www.eventbrite.co.uk/e/beyond-imagination-tickets-638654541927
+
 ---
 
 {{< rawhtml >}}
